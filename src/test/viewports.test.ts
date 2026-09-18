@@ -329,7 +329,7 @@ describe('Milestone 2: Viewport Components & Dual-View Integration', () => {
       expect(screen.getByTestId('dual-viewport-container')).toBeDefined();
 
       // Footer
-      expect(screen.getByText(/방어진고등학교 교사 이희/)).toBeDefined();
+      expect(screen.getByText(/방어진고등학교 교사 이건희/)).toBeDefined();
     });
 
     it('changes synthesis stage when clicking on stepper navigation buttons', () => {

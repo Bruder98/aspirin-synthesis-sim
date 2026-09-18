@@ -534,7 +534,7 @@ export function App() {
 
       {/* 7. Clean Minimal Footer */}
       <footer className="bg-lab-900/90 border-t border-slate-800 px-4 py-2.5 text-center text-xs font-mono text-slate-400">
-        아세틸살리실산(아스피린) 합성 시뮬레이터 • © 방어진고등학교 교사 이희 (All Rights Reserved)
+        아세틸살리실산(아스피린) 합성 시뮬레이터 • © 방어진고등학교 교사 이건희 (All Rights Reserved)
       </footer>
     </div>
   );
