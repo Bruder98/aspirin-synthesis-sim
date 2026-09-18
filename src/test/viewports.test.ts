@@ -329,7 +329,7 @@ describe('Milestone 2: Viewport Components & Dual-View Integration', () => {
       expect(screen.getByTestId('dual-viewport-container')).toBeDefined();
 
       // Footer
-      expect(screen.getByText(/Milestone 2: 거시-미시 동기화 뷰포트 엔진 완성/)).toBeDefined();
+      expect(screen.getByText(/방어진고등학교 교사 이희/)).toBeDefined();
     });
 
     it('changes synthesis stage when clicking on stepper navigation buttons', () => {

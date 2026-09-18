@@ -533,8 +533,8 @@ export function App() {
       />
 
       {/* 7. Clean Minimal Footer */}
-      <footer className="bg-lab-900/90 border-t border-slate-800 px-4 py-2.5 text-center text-xs font-mono text-slate-500">
-        아세틸살리실산 합성 시뮬레이터 • Milestone 2: 거시-미시 동기화 뷰포트 엔진 완성 (Canvas 2D &amp; Three.js 3D WebGL) | Milestone 3 &amp; 4: 교육 모델 &amp; 정성 시험
+      <footer className="bg-lab-900/90 border-t border-slate-800 px-4 py-2.5 text-center text-xs font-mono text-slate-400">
+        아세틸살리실산(아스피린) 합성 시뮬레이터 • © 방어진고등학교 교사 이희 (All Rights Reserved)
       </footer>
     </div>
   );
